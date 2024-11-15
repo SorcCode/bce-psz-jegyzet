@@ -5,4 +5,4 @@ A jegyzetek elején lévő hivatkozások külső állományokra irányulnak, ami
 
 ## A jegyzetek
 
-A jegyzetek Markdown formátomban készültek, az Obsidian (https://obsidian.md) formarendszerében.
+A jegyzetek Markdown formátomban készültek, az [Obsidian](https://obsidian.md) formarendszerében.
