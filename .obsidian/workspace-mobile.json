@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "4e774067b08852a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "adc490c212586b7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fe6dd92318f3c9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vállalati pénzügyek/Általános - VPÜ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Általános - VPÜ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc680ea195d8658d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "83a6134a95a637b5",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "ec6ff8369c0f15a2",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "184c7fee08e29c62",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "3f80bd34e3e268d7",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "018d15f684960c58",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "174930bbdfef61ca",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Üzleti informatka - 4. blokk.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "c15104928e18d153",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Üzleti informatka - 4. blokk.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "004455de90b182a7",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Prezi.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6fe6dd92318f3c9f",
+  "lastOpenFiles": [
+    "Intézményi közgazdaságtan/Általános - Intézményi közgazdaságtan.md",
+    "Intézményi közgazdaságtan/Intézményi közgazdaságtan - 2. hét.md",
+    "Intézményi közgazdaságtan/Intézményi közgazdaságtan - 3. hét.md",
+    "Intézményi közgazdaságtan/Intézményi közgazdaságtan - 4. hét.md",
+    "Prezentációs technikák/Prezi.md",
+    "Untitled.canvas",
+    "Prezentációs technikák",
+    "Untitled.md",
+    "Valószínűség számítás/Valószínűség számítás - Első hét.md",
+    "Számvitel 1. - Pénzügyi számvitel/Számvitel 1. - 9. hét.md",
+    "Számvitel 1. - Pénzügyi számvitel/Számvitel 1. - 8. hét.md",
+    "Számvitel 1. - Pénzügyi számvitel/Számvitel 1. - 6. hét.md",
+    "Számvitel 1. - Pénzügyi számvitel/Számvitel 1. - 5. hét.md",
+    "Számvitel 1. - Pénzügyi számvitel/Számvitel 1. - 4. hét.md",
+    "Vállalati pénzügyek/VP - 4. hét.md",
+    "Vállalati pénzügyek/VP - 6. hét.md",
+    "Vállalati pénzügyek/VP - 8. hét.md",
+    "Vállalati pénzügyek/VP - 9. hét.md",
+    "Vállalati pénzügyek/VP - 2. hét.md",
+    "Vállalati pénzügyek/VP - 1. hét.md",
+    "2024-11-13.md",
+    "Vállalati pénzügyek/PDF/CAPM_Makara.pdf",
+    "Intézményi közgazdaságtan/PDF/08_Szerződések gazdaságtana.pdf",
+    "Intézményi közgazdaságtan/Intézményi közgazdaságtan - 9. hét.md",
+    "Intézményi közgazdaságtan/PDF/09_Piac.pdf",
+    "Számvitel 1. - Pénzügyi számvitel/PDF/szv_alapjai_9_ea_H_kieg.pdf",
+    "Számvitel 1. - Pénzügyi számvitel/PDF/szv_alapjai_9_ea.pdf",
+    "Számvitel 1. - Pénzügyi számvitel/Számvitel 1. - 3. hét.md",
+    "Számvitel 1. - Pénzügyi számvitel/Számvitel 1. - 2. hét.md",
+    "Számvitel 1. - Pénzügyi számvitel/Számvitel 1. - 1. hét.md",
+    "Vállalati pénzügyek/VP - 3. hét.md",
+    "Számvitel 1. - Pénzügyi számvitel/PDF/szv_alapjai_8_ea_2020Sbb.pdf",
+    "Vállalati pénzügyek/PDF/8_ea_VP.pdf",
+    "Vállalati pénzügyek/PDF/9_ea_VP.pdf",
+    "Üzleti informatika/Üzleti informatka - 4. blokk.md",
+    "Intézményi közgazdaságtan/PDF/06_A tulajdonjogok közgazdaságtana.pdf",
+    "Intézményi közgazdaságtan/Intézményi közgazdaságtan - 8. hét.md"
+  ]
+}

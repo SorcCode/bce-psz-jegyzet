@@ -1,0 +1,1 @@
+Word, excel és egyéb nyalánkságok

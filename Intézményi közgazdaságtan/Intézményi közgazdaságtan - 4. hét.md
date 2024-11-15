@@ -1,0 +1,1 @@
+![[04_A bizalom.pdf]]
