@@ -72,4 +72,4 @@ Kapcsolódó linkek:
 [[Fogalomtár - Számvitel 1.]]
 [[Általános - Számvitel 1.]]
 #szam1
-#bce 
+#bce

@@ -9,7 +9,7 @@ A $P_{0}$ az osztaléksorozat jövőből származó kifizetések jelenértéke
 
 
 Kapcsolódó linkek:
-[[Fogalomtár - VPÜ]]
-[[Általános - VPÜ]]
+[[Fogalomtár - VP]]
+[[Általános - VP]]
 #vpu
 #bce

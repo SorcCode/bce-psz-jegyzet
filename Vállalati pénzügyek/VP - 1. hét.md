@@ -44,7 +44,7 @@ Két más időpontbeli pénzt nem tudok összeadni, ezért kell egy közös neve
 
 
 Kapcsolódó linkek:
-[[Fogalomtár - VPÜ]]
-[[Általános - VPÜ]]
+[[Fogalomtár - VP]]
+[[Általános - VP]]
 #vpu
 #bce

@@ -20,5 +20,5 @@ Hétről hétre képletgyűjtemény.
 
 
 Kapcsolódó linkek:
-[[Fogalomtár - VPÜ]]
+[[Fogalomtár - VP]]
 #bce

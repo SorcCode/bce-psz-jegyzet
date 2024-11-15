@@ -7,7 +7,7 @@ Minél jobban fektesse be a befektető a pénzét
 
 
 Kapcsolódó linkek:
-[[Fogalomtár - VPÜ]]
-[[Általános - VPÜ]]
+[[Fogalomtár - VP]]
+[[Általános - VP]]
 #vpu
 #bce

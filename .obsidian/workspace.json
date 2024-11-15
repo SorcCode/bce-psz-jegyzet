@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "07c7c98627afdb53",
+    "type": "split",
+    "children": [
+      {
+        "id": "29e201d57b7ecad0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6308b95eb0118fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5202df90ff0691b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "382ac4b41b20d10b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bd292db234f6ec8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "be47259f0926a77d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4aaaefce09397b61",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e587f1094a35ec4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac4735a4383981ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2379c4339e37a626",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "c8edf72de1500b42",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "a67b4b1e91fc4df0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a56a92d8372c15a8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e6308b95eb0118fe",
+  "lastOpenFiles": [
+    "Intézményi közgazdaságtan/Intézményi közgazdaságtan - 9. hét.md",
+    "Vállalati pénzügyek/VP - 9. hét.md",
+    "Vállalati pénzügyek/Fogalomtár - VP.md",
+    "Vállalati pénzügyek/Általános - VP.md",
+    "Általános - VPÜ.md",
+    "Fogalomtár - VPÜ.md",
+    "Vállalati pénzügyek/VP - 8. hét.md",
+    "Intézményi közgazdaságtan/Intézményi közgazdaságtan - 8. hét.md",
+    "Intézményi közgazdaságtan/Intézményi közgazdaságtan - 6. hét.md",
+    "Intézményi közgazdaságtan/Intézményi közgazdaságtan - 5. hét.md",
+    "Intézményi közgazdaságtan/Intézményi közgazdaságtan - 4. hét.md",
+    "Intézményi közgazdaságtan/Intézményi közgazdaságtan - 3. hét.md",
+    "Intézményi közgazdaságtan/Intézményi közgazdaságtan - 2. hét.md",
+    "Számvitel 1. - Pénzügyi számvitel/Általános - Számvitel 1..md",
+    "Számvitel 1. - Pénzügyi számvitel/Számvitel 1. - 2. hét.md",
+    "Számvitel 1. - Pénzügyi számvitel/Számvitel 1. - 1. hét.md",
+    "Számvitel 1. - Pénzügyi számvitel/Könyvelési számlák sorszáma hazánkban.md",
+    "Számvitel 1. - Pénzügyi számvitel/Számvitel 1. - 4. hét.md",
+    "Számvitel 1. - Pénzügyi számvitel/Fogalomtár - Számvitel 1..md",
+    "Pénzügyi prezentációs technikák/Prezentációs technikák - 2. hét.md",
+    "Statisztika 2/Statisztika 2. - Általános.md",
+    "README.md",
+    "Statisztika 2"
+  ]
+}

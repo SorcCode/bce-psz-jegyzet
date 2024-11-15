@@ -40,7 +40,7 @@ Beruházási CF
 
 
 Kapcsolódó linkek:
-[[Fogalomtár - VPÜ]]
-[[Általános - VPÜ]]
+[[Fogalomtár - VP]]
+[[Általános - VP]]
 #vpu
 #bce

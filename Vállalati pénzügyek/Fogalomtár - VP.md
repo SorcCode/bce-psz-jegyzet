@@ -17,8 +17,7 @@ $$
 AF: Annuitás faktor
 
 
-
 Kapcsolódó linkeke:
-[[Általános - VPÜ]]
+[[Általános - VP]]
 #vpu
 #bce 
