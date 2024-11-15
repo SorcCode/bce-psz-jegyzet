@@ -1,4 +1,4 @@
-# Pénzügy-számvitel jegyzetgyűjteménz
+# Pénzügy-számvitel jegyzetgyűjtemény
 
 Itt találhatóak az egyetem alatt készített jegyzeteim válogatott tárgyakból.
 A jegyzetek elején lévő hivatkozások külső állományokra irányulnak, amiket itt nem tudok megosztani szerzői jogok miatt.
